@@ -1,13 +1,19 @@
 # OpenMind Lab - Ultragroßes Open-Source-Erfindungs- und Kreativplattform (Projekt in Entwicklung)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/username/openmind-lab.svg)](https://github.com/username/openmind-lab/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/username/openmind-lab.svg)](https://github.com/username/openmind-lab/pulls)
-[![Contributors](https://img.shields.io/github/contributors/username/openmind-lab.svg)](https://github.com/username/openmind-lab/graphs/contributors)
-
+[![GitHub Stars](https://img.shields.io/github/stars/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/network)
+[![GitHub Issues](https://img.shields.io/github/issues/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/pulls)
+[![GitHub License](https://img.shields.io/github/license/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/blob/main/LICENSE)
+[![GitHub Contributors](https://img.shields.io/github/contributors/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/graphs/contributors)  
+ 
 # Aufbau der nächsten Generation von Forschungskooperationsplattform - Menschlichen Fortschritt durch Code vorantreiben
 
 Willkommen bei OpenMind Lab, einer beispiellosen ultragroßen Open-Source-Erfindungs- und Kreativplattform! Wir bauen eine revolutionäre Forschungskooperationsumgebung auf, die Millionen von Entwicklern, Wissenschaftlern, Forschungsbegeisterten und der breiten Öffentlich weltweit ermöglicht, an der Spitze der Wissenschaft und Technologie teilzunehmen und diese voranzutreiben.
+
+## 🎯 Projektpositionierung
+
+OpenMind Lab ist bestrebt, eine **ultragroße globale wissenschaftliche Forschungs- und Entwicklungsplattform mit starker wissenschaftlicher Grundlage, Volksbeteiligung und niedrigen Eintrittsbarrieren** aufzubauen. Hier können normale Menschen innovative Ideen hochladen, Forscher sie umsetzen und Entwickler das Open-Source-Ökosystem pflegen, wodurch ein innovationsförderndes Modell mit Gewinnbeteiligung entsteht. Unsere Vision ist es, globale Weisheit zu verbinden, um gemeinsam die großen wissenschaftlichen Herausforderungen der Menschheit zu lösen.
 
 ## 🌍 Die großartige Vision des Ultragroßprojekts
 

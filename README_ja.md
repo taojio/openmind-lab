@@ -1,13 +1,19 @@
-# OpenMind Lab - 超大型オープンソース発明創造プラットフォーム（プロジェクト開発中）
+# OpenMind Lab - 超大型オープンソース発明創造プラットフォーム（プロジェクト開発中） 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/username/openmind-lab.svg)](https://github.com/username/openmind-lab/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/username/openmind-lab.svg)](https://github.com/username/openmind-lab/pulls)
-[![Contributors](https://img.shields.io/github/contributors/username/openmind-lab.svg)](https://github.com/username/openmind-lab/graphs/contributors)
-
+[![GitHub Stars](https://img.shields.io/github/stars/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/network)
+[![GitHub Issues](https://img.shields.io/github/issues/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/pulls)
+[![GitHub License](https://img.shields.io/github/license/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/blob/main/LICENSE)
+[![GitHub Contributors](https://img.shields.io/github/contributors/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/graphs/contributors)
+ 
 # 次世代科学研究協働プラットフォームの構築 - コードで人類の進歩を推進
 
 OpenMind Labへようこそ。これは人類史上最大規模のオープンソース発明創造プラットフォームです。数百万の開発者、科学者、研究愛好家、一般大衆が科学技術の最前線に参加し、推進できる革新的な科学研究協働環境を構築しています。
+
+## 🎯 プロジェクトポジショニング
+
+OpenMind Labは、**科学基盤が強く、一般参加が可能で、参入障壁が低い超大型グローバル科学研究開発プラットフォーム**の構築に取り組んでいます。ここでは、一般の方が革新的なアイデアをアップロードし、研究者がそれを実装し、開発者がオープンソースエコシステムを維持することで、利益共有のイノベーションモデルを形成します。私たちのビジョンは、世界中の知恵をつなぎ、人類が直面する主要な科学的課題を共同で解決することです。
 
 ## 🌍 超大型プロジェクトの壮大なビジョン
 
@@ -16,11 +22,11 @@ OpenMind Labは、これまでにない超大型オープンソースプロジ�
 - すべての技術分野の協働研究を支援する
 - 人類の知識共有とイノベーションの新しいインフラを構築する
 - 世界を変える科学的ブレークスルーと技術発明を生み出す
-- 科学研究を一般大衆に届け、全民参加型のイノベーションを実現する
+- 科学研究を一般大衆に届け、広く参加できるイノベーションを実現する
 
 ## 🎯 ターゲットユーザー
 
-### 1. 一般大衆（全民イノベーション）
+### 1. 一般大衆（大衆イノベーション）
 - 科学技術に関心のある一般の人々
 - 科学研究プロセスを理解したいと思っている人々
 - 創造的なアイデアがあるが専門的背景がない発明愛好家

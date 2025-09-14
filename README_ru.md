@@ -1,13 +1,19 @@
 # OpenMind Lab - Ультрамасштабная платформа для изобретений и творчества с открытым исходным кодом (проект в разработке)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/username/openmind-lab.svg)](https://github.com/username/openmind-lab/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/username/openmind-lab.svg)](https://github.com/username/openmind-lab/pulls)
-[![Contributors](https://img.shields.io/github/contributors/username/openmind-lab.svg)](https://github.com/username/openmind-lab/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/network)
+[![GitHub Issues](https://img.shields.io/github/issues/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/pulls)
+[![GitHub License](https://img.shields.io/github/license/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/blob/main/LICENSE)
+[![GitHub Contributors](https://img.shields.io/github/contributors/openmind-lab/openmind-lab.svg)](https://github.com/openmind-lab/openmind-lab/graphs/contributors)
 
 # Создание платформы научного сотрудничества нового поколения - Продвижение человеческого прогресса с помощью кода
 
 Добро пожаловать в OpenMind Lab - беспрецедентную ультрамасштабную платформу для изобретений и творчества с открытым исходным кодом! Мы создаем революционную среду научного сотрудничества, которая позволяет миллионам разработчиков, ученых, энтузиастов исследований и широкой публики по всему миру участвовать в развитии передовых технологий и науки.
+
+## 🎯 Позиционирование проекта
+
+OpenMind Lab - это **ультрамасштабная глобальная платформа научных исследований и разработок с сильной научной базой, народным участием и низкими входными барьерами**. Мы объединяем передовые технологии, научное сообщество и широкую публику, создавая новый формат научно-технической творческой деятельности, где каждый может внести свой вклад в развитие человеческого знания.
 
 ## 🌍 Величественное видение ультрамасштабного проекта
 
